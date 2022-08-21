@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sonic-anagram-341118",
+  "private_key_id": "569c2ca50469692140d062a95181c4d9282f31ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCVNFYPDPMLwa94\nJjVjCQCfMEtm5EtPk9rPJao0cHrl8BFaZCUjqh9XeYXM4c9wU2OohAkkx8ukZS79\nU6HqYFP/N+DRjgFII38eNPKp9JcJtqd9vUkPCf57JTZiXyNYOEZQfaYcQ61qo/rR\nG/FRdYu9TLdex9OtNC2U1vfmJ4CuC8tIzy89jnZaPlMwa2LfayGukEgG0kBOeSrv\nYe0x/g69b9C33OgUdJBieXu4BXvnJO3QljcaomneqlzwWku71IfY5Bo0y8GxOHnq\n87y86ejvWZnQ8WPczQIY27Yum1xZXlp1X54U619/p0KYdtYrsu+8ZIKkShT2US1n\n/4jMTkpfAgMBAAECggEAEsWmbDdXXuvL/WRlRCQOUXj8i6H+fbEfDv/wpa9fLw3g\nyQwfhhix38oY1Pm2JS5AtCOEmP2QOAtI+bNrhDcBanNn1EW3EJHyvOSxgUOWOzEh\napcFmaBKxcidSowowME3y4m7fAPhzjB6bpPC7VpKLhN4YLLohXqyn27aerkOnhcJ\njf6jgzR2rHqPJqwWV2BLu4KDa+ztzQPXnUJ7neDkY/gIgRFlRcZ3U4JfqQ1m2Tm8\nJ+eElk916vElMMwYQRwinnfBQ865n5+wIWNeQHnEPAUTti1kozeRmgOiZ5z2ccaD\nFTgz/ZjT/tvhuJqmOVVVA1Qz8bM5JLDEiveCfmc1cQKBgQDMn8CwHXzjkY2YIOAe\n12PdQ81hZsqpGx/ycxucP231L1cuuU+OrZMEWzpHpZ9OMQXBuPKhSvqRi7+aCpqQ\nCZAoJ1Y7MfIeYRckxEtCQ9frnVR00bges3qXNBRkMAxiouUVz6YDEDRoqbgWt5e9\n38+ee9Nz7kUiLl10rIhju2C4jwKBgQC6qnqSYSD9+fCHXCFRDotG2EHe5XC9l5xz\nDYqrqASoiCsnPvZ28CIrLV3fcHxhYrX08rfr4SI93e3YrcsAcbE340e+ZOHSLvpE\nbgE1AnQnhS0gTQpVHcQWTYpIsCMlh1B2AVog9mBi19ztvOBPo4Bj4CSJ9L69ad27\noL9kl2sZMQKBgQCbX5ZtZAanuabdY+EqKfzPTyONGQM7grgwXc0SSGuS6B54AQfy\n28OtZCQNsSoUsk6fuXKqnIdEquuS6QhR5KEMjEoC6rrg7HIpXc+TgnZalv1BMtlu\nnnOwikANjxpoby4p8KEq5EwXSP/aaA+VgnNg8L8v4TWnbbNS24s4x1f66wKBgAQ+\nb/73+loL3q4VKCTBoeUAca7xpHiLA+GRwz9X2JNEVUbVJaFaoEw/Ac1cr1c/eUeS\nZSAVxEOH0iqE+QKPkynkHvNzM7clnkcEAT8FSULEwlvjpIJ+5MBlDunMJ2BpDSlB\nqpzpPRPCOKGnE6p72yVqKSqBx/xidcoYQ4Gz95lhAoGBAIJ3rHFlwRrf/2pgNNSP\nTeb8c7bmypl2twByCdVVlOyOfDoYvmHNMeXfKh0mRcwUqWo8x1j7ENyNcj3QsHi1\nx7j8UP10vJssGFKrfPQEvoCkl5nCtHJrCGbW8Qn//v3b4cTBKNUIakk+c1omlVfP\nv66eOH5LV9DW6Ypc00LKOA39\n-----END PRIVATE KEY-----\n",
+  "client_email": "sonic-anagram-341118@appspot.gserviceaccount.com",
+  "client_id": "113065277172233635234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sonic-anagram-341118%40appspot.gserviceaccount.com"
+}

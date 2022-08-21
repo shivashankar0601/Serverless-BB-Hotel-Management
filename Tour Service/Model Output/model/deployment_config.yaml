@@ -1,0 +1,8 @@
+deploymentUri: gs://trainingdata5410/ModelOutput/model/
+framework: TENSORFLOW
+labels:
+  global_step: '50'
+  job_id: finalprojectmlmodel
+  accuracy: '72'
+runtimeVersion: '1.14'
+pythonVersion: '2.7'

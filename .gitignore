@@ -1,0 +1,15 @@
+venv/
+layer/
+.idea/
+/.metadata/
+
+/Hotel Management Service/hotelManagementLambda/target/
+/Hotel Management Service/hotelManagementLambda/*.iml
+/Hotel Management Service/hotelManagementLambda/.idea
+/Hotel Management Service/hotelManagementLambda/.gradle
+
+
+/Hotel Management Service/gcpCloudFunctions/.idea
+/Hotel Management Service/gcpCloudFunctions/.gradle
+/Hotel Management Service/gcpCloudFunctions/*.iml
+

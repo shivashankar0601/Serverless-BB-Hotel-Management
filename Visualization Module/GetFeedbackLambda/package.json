@@ -1,0 +1,16 @@
+{
+  "name": "visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "group9",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.131.0",
+    "@aws-sdk/util-dynamodb": "^3.131.0",
+    "uuidv4": "^6.2.13"
+  }
+}
